@@ -1,0 +1,21 @@
+.search {
+    margin-top: 50px;
+    border: 1px solid lightgrey;
+    width: 570px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+
+}
+.inputw{
+    width: 25rem;
+}
+@media screen and (max-width: 600px) {
+    .searchmobile {
+        width: 330px;
+    }
+    .inputm{
+        width: 10rem;
+    }
+  }
